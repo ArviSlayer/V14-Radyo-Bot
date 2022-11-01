@@ -9,16 +9,16 @@
 
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ArviSlayer/Discord-ModMail-Bot.git"
+    "url": "https://github.com/ArviSlayer/V14-Radyo-Bot.git"
   },
 
   "author": "ArviS#0011",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ArviSlayer/Discord-ModMail-Bot/issues"
+    "url": "https://github.com/ArviSlayer/V14-Radyo-Bot/issues"
   },
   
-  "homepage": "https://github.com/ArviSlayer/Discord-ModMail-Bot#readme",
+  "homepage": "https://github.com/ArviSlayer/V14-Radyo-Bot#readme",
   "dependencies": {
     "@discordjs/voice": "^0.11.0",
     "discord.js": "^14.2.0",
